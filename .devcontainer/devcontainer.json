@@ -16,8 +16,8 @@
         "ms-python.python",
         "ms-python.vscode-pylance",
         "ms-python.vscode-python-envs",
-        "GitHub.copilot",
-        "RooVeterinaryInc.roo-cline"
+        "rooveterinaryinc.roo-cline",
+        "github.copilot"
       ]
     }
   },
